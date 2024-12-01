@@ -3,7 +3,7 @@ import { setupPlayer } from './player.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Hello</h1>
+    <h1>Hello, Cam!</h1>
 
     <div class="card">
       <button id="player" type="button">Play</button>
